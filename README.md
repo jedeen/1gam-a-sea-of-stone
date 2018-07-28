@@ -10,3 +10,7 @@ Each player recounts a memory of the person whose name they inscribed, and how t
 Other players remain silent during the recounting.
 
 Once all players have told their stories, the process can begin again, if all players wish it to. If not, return to shore.
+
+----------
+
+This work is licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
